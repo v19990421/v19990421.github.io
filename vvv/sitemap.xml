@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.v19990421.com/index.html</loc>
+    <lastmod>2019-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.v19990421.com/images/%E6%92%AD%E6%94%BE%E9%88%95.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.v19990421.com/images/%E6%92%AD%E6%94%BE%E9%88%95_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.v19990421.com/images/%E9%A0%82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.v19990421.com/images/%E9%A0%82_2x.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

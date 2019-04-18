@@ -1,0 +1,50 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.v19990421.com" resolutions="1x,2x" timestamp="1555576116134">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="298872412" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u234.png" crc="19503953" ref="index"/>
+    <file name="u234_2x.png" crc="156275125" ref="index"/>
+    <file name="u234-m.png" crc="4221981072" ref="index"/>
+    <file name="u234-m_2x.png" crc="283401235" ref="index"/>
+    <file name="u189.png" crc="3888506027" ref="index"/>
+    <file name="u189_2x.png" crc="3917697757" ref="index"/>
+    <file name="u189-m.png" crc="3842932462" ref="index"/>
+    <file name="u189-m_2x.png" crc="55018486" ref="index"/>
+    <file name="u211.png" crc="3984210784" ref="index"/>
+    <file name="u211_2x.png" crc="4206178425" ref="index"/>
+    <file name="u211-m.png" crc="3975363574" ref="index"/>
+    <file name="u211-m_2x.png" crc="4035512481" ref="index"/>
+    <file name="u204.png" crc="435193961" ref="index"/>
+    <file name="u204_2x.png" crc="294547638" ref="index"/>
+    <file name="u204-m.png" crc="8070338" ref="index"/>
+    <file name="u204-m_2x.png" crc="3771001335" ref="index"/>
+    <file name="播放鈕.png" crc="3787400538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="播放鈕_2x.png" crc="4013930743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="頂.png" crc="3850911525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="頂_2x.png" crc="405117343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0607135張致嫻.jpg" crc="4249217967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="412747636" seo="true" mt="1555575919906" redirect="true"/>
+</manifest>
